@@ -3,8 +3,6 @@ package qihang.algorithm.sort.InsertionSort;
 import qihang.algorithm.sort.helper.SortHelper;
 
 public class InsertionSort extends SortHelper {
-
-
     @Override
     public void solute(int[] nums) {
         int len = nums.length;
